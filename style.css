@@ -7,3 +7,8 @@ ul,
 ol {
   line-height: 200%;
 }
+
+a {
+  color: blue;
+  text-decoration: none;
+}
